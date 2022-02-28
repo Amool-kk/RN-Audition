@@ -1,0 +1,32 @@
+.register{
+    margin: auto;
+    margin-bottom: 150px;
+    margin-top: 20px;
+    padding: 20px auto 0px auto;
+    /* animation-name: example;
+    background-color: red;
+    animation-iteration-count: infinite;
+    animation-duration: 4s; */
+}
+.register h1{
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+.register form{
+    /* border: 1px solid black; */
+    width: 80%;
+    margin: auto;
+}
+@media all and (max-width: 768px) {
+    .register form{
+        width: 98%;
+    }
+}
+
+/* @keyframes example {
+    0%   {background-color:red;}
+  25%  {background-color:yellow; }
+  50%  {background-color:blue; }
+  75%  {background-color:green; }
+  100% {background-color:red;}
+  } */

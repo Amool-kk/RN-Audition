@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Barlow', sans-serif!important;
+}
+
+.ReactModal__Content{
+    border: none!important;
+    background: rgb(0, 0, 0);
+    overflow: auto;
+    border-radius: 0px!important;
+    outline: none;
+    padding: 20px;
+    position: unset!important;
+    min-height: 100vh;
+    /* width: 100vw; */
+    background-image: url("./images/img.png")!important;
+    background-position: left!important;
+    background-size: cover!important;
+    color: white!important;
+    background-repeat: no-repeat!important;
+}
+/* 
+.modal{
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: 50%;
+    left: 50vw;
+    transform: translate(-26vw,-8%);
+}
+.modal img{
+    width: 17vw;
+} */
+
+.modalheader{
+    position: absolute;
+    top: 50vh;
+    left: 50%;
+    transform: translate(16%,-70%);
+    font-size: 3.3vw;
+    font-family: cursive;
+    text-align: center;
+}
+.modalheader h1{
+    width: 100%;
+}
+.modalheader p{
+    font-size: 2.0vw;
+}
+
+.containers {
+    text-align: center;
+    padding: 50px 20px;
+    display: flex;
+    font-size: 10px;
+}
+
+.containers h2 {
+    font-weight: normal;
+    letter-spacing: .125rem;
+    text-transform: uppercase;
+}
+
+.containers li {
+    display: inline-block;
+    font-size: 1.5em;
+    list-style-type: none;
+    padding: 1em;
+    text-transform: uppercase;
+}
+
+.containers li span {
+    display: block;
+    font-size: 4.5rem;
+}
+
+.modalFooter .closeBtn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#content {
+    display: none;
+    padding: 1rem;
+}
+
+.emoji {
+    padding: 0 .25rem;
+}
+
+.ReactModal__Overlay {
+    opacity: 0;
+    transform: translateY(-0px);
+    transition: all 500ms ease-in-out;
+    z-index: 1001;
+  }
+  
+  .ReactModal__Overlay--after-open {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+  .ReactModal__Body--open {
+    overflow-y: hidden;
+    position: fixed;
+  }
+  
+  .ReactModal__Overlay--before-close {
+    opacity: 0;
+    transform: translateY(-100px);
+  }
+
+@media all and (max-width: 768px) {
+    .containers h2 {
+        font-size: 1.5rem;
+    }
+    .containers li {
+        font-size: 1.125rem;
+        padding: .75rem;
+    }
+    .containers li span {
+        font-size: 3.375rem;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .ReactModal__Content{
+        background-image: url("./images/img2.png")!important;
+    background-position: center!important;
+    background-size: cover!important;
+    color: white!important;
+    background-repeat: no-repeat!important;
+    }
+    .modalheader{
+        padding: 0px 10px;
+        position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,10%);
+    font-size: 22px;
+    font-family: cursive;
+    width: 100%;
+    text-align: center;
+    }
+    .modalheader p{
+        font-size: 18px;
+    }
+}

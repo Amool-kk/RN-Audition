@@ -1,0 +1,22 @@
+nav{
+    background-color: black;
+    display: flex;
+    z-index: 9999;
+}
+
+nav .logo{
+    width: 60px;
+    height: 60px;
+    z-index: 9999;
+}
+
+nav .sociallogo{
+    display: flex;
+    margin: 19px 20px 17px auto;
+    z-index: 9999;
+}
+
+nav li{
+    text-decoration: none;
+    margin: auto;
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rnaudition-340112",
+  "private_key_id": "08a3c55075b3ac01b6759fa6afec23bd7e6ca297",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4ikh8egpnP9Vn\naFIvAzqUoXUiztuPfvlOvOd+7vjXnLbbMZpGBW2/SdWZ048EfBypHQlnLODQDQmX\nTk4dQuob/u0QqIQq29OpuvGdc7ecHNp0uR4iVTugPRz/xdbVUcbTOhe8BBWBFBM+\nP5Ef9xgi3Xb2CGpYzhIyH9HO8cDaZ1gp/9wmTYrlAv3BxOizyzLHlIvEe0Spq0JG\nCg8zVmXTayI0f3I6ikgCBygp4akJDIrGlIsim2mLBKszcIU+/dGp+Djhgah9K2e3\nuZyHzonTDAI1+Uta0Ne+NUSf17vAh9BUnDgr1B8bunffvbcuwvRPAE+RVI4caoUv\nAYWTr8qDAgMBAAECgf9yZhPv41GPsBxOS0PaeqXvsPRshgL8pQboFZlsyh55JMcD\nTjyhxVVdJoH3JxWbZVUr54dsu0vVrdj3c0bGQ2hEJd42wkDGUOaZN/32t0WbmxQ4\nR70Zvry35feUMSp84Bt7CW6tOQ4bqdZEDVc2xncWWTQZHh5ou70liMduNdZxjSnK\nulqkhWgTnu57gmpR5lOgPZ1I4zfLtMETamq1Y+gCmx+tcPDK1df3GebdCdieJtTU\n+zcKf5X10rUe3RY+nckhb2NkkbSUmtXWccvabaki8Eoj0wWiAMBW9blDA7m13lWN\nP4KfvOM/3EABt/hlajAL2vp/ITVtPMvUWq9k1D0CgYEA8cNURj3Fuho6tLcipmVi\n+XCN9v0C6DxumTFhNzNzEqXFOzOI4iFvEvUlce52ZAqD5rzFJIZYWqrs1R3qDyoV\n8ZhRs5Hu2+pHZsu1csVOVQFLqaypnSeKEJxtcvUhOYNb19HM5H5HoB6Z36DpWT+w\nsTERSwaPRTodTMWh7CPR7J0CgYEAw2hMLUPfU/D4BR/cVZ2/avt0NRS8G3IJmxNq\n6YsWb7rGbrFVD81UQNM4tiC84JF9wPB2w/knwN4kob/BKpM07tVytaivg+dmo8by\nhoRbPmS02cfgmUyP4IzfbfEk3alrxx4E8XwcNHvXCbMvYhqmNcp3ck+ObjePe2il\nlaY0mZ8CgYA9RCK3KjBRWRRHd6FwSYErdTqEvNlfwPDGIZ1hP8iJkTjKJ+UoaRCc\n3UL//E5ES+XhMzVCbEk3sNkTqOEHtsKY1uDdgL3nPRebFUSGMToIkKt79CWHjd2P\nGBUkbLpeuMsthh1GSjoceaTE5yI7W8iLHsQjHyZvhKqoKe0+ylUIgQKBgQCDFahk\nhS9/5Bq9dU4dsSED54NhSHOYBbwj57bEzKVUdns/Ln7dhuSKSCe3JecOzwsJL0a8\n2Juualcwmq4+nVnZDh9RdcOoPMdB/ugbDRcYl/4qSkeFDzNFc7s+yZHtkQXYIW83\ngAZ7vsfWnfmfWjk9xIC0kmH91g/Ovbi21zRaCQKBgQClF8fvvm9SV6jrWblbAXaI\nbmbIWkmdcVJxh+eUKLSVo9eX5ZLPRt9DxeLwXTzH8S176C1iivvpX5iXrT998qrP\n/bzpm5JS/pEP7wjSBTVhOYD5VsFbWaWOU2SRLQAgMTae3qZE8FCpUj6erqVJKM1j\nFCJzkA7wHs6UyXvs/Aq/EA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "audition@rnaudition-340112.iam.gserviceaccount.com",
+  "client_id": "118124384594011391197",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/audition%40rnaudition-340112.iam.gserviceaccount.com"
+}
